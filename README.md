@@ -42,7 +42,7 @@ As you delve into the intricacies of the Quantum Coin Game, gather your minds in
 - **What if:** The quantum computer engages in a duel with another quantum computer instead of a classical human?
 - <span style="color:blue">-The intial state of the Q-bit will apply beacuse two idintical quantum gates will be idintity gate</span>.
 - **What if:** The number of turns isn't limited to three, but instead spans a dynamic range?
-- <span style="color:blue">-Depends on what the choose/span>.
+- <span style="color:blue">-Depends on what the choose </span>.
 - **What if:** Certain gates are restricted, rather than utilizing the entire spectrum of gates?
 - <span style="color:blue">-Yes if the Quantum does not use Hadamard </span>.
 🔍 Delve into these intriguing possibilities, for within them lie unexplored dimensions of the Quantum Coin Game's universe.
