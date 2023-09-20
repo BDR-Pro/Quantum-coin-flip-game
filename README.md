@@ -1,4 +1,4 @@
-# Quantum Coin Game: A Quantum Computing Marvel 🪙🎮
+ # Quantum Coin Game: A Quantum Computing Marvel 🪙🎮
 
 ## Introduction 🌌
 
@@ -44,7 +44,7 @@ As you delve into the intricacies of the Quantum Coin Game, gather your minds in
 - **What if:** The number of turns isn't limited to three, but instead spans a dynamic range?
 - <span style="color:blue">-Depends on what the choose/span>.
 - **What if:** Certain gates are restricted, rather than utilizing the entire spectrum of gates?
-- <span style="color:blue">-Yes if the Quantum does not use Hadamard</span>.
+- <span style="color:blue">-Yes if the Quantum does not use Hadamard </span>.
 🔍 Delve into these intriguing possibilities, for within them lie unexplored dimensions of the Quantum Coin Game's universe.
 
 
